@@ -1,0 +1,18 @@
+# виртуальные окружения
+venv/
+.venv/
+
+# pycache
+__pycache__/
+*.pyc
+
+# IDE-шные файлы
+.idea/
+.vscode/
+
+# окружение
+.env
+
+# пользовательские данные
+notes/*
+!notes/.gitkeep
